@@ -18,18 +18,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "80%"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "90%"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "GIS"
+  description = "100%"  
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "70%"  
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "80%"  
+  
+  
 +++
